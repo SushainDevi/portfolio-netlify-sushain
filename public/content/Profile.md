@@ -12,7 +12,7 @@
 ## Contact
      Contact me via...
 
-- LinkedIn: https://linkedin.com/in/sushaindevi
+- LinkedIn: https://www.linkedin.com/in/sushaindevi/
 - GitHub: https://github.com/SushainDevi
 - Email:  devisushain@gmail.com
 
