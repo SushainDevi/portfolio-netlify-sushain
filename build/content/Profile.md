@@ -10,9 +10,11 @@
  I’m Sushain, currently pursuing a Bachelor of Technology in Computer Science & Engineering at MIT WPU, Pune. I'm passionate about AI development, with a focus on machine learning, NLP, and generative AI. I enjoy working on projects that combine creativity and innovation, including document summarization systems, neural architectures, and personalized recommendation engines.
 
 ## Contact
+     Contact me via...
 
 - LinkedIn: https://www.linkedin.com/in/sushaindevi/
 - GitHub: https://github.com/SushainDevi
+- Email:  devisushain@gmail.com
 
 ## Logo
 - SD
